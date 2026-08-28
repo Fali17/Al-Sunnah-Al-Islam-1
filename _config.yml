@@ -1,0 +1,14 @@
+# Site Settings
+title: Al Sunnah Al Islam
+description: Islamic Articles, Books, and Resources
+url: "https://fali1917.github.io" # Replace with your GitHub username
+baseurl: ""
+
+# Build Settings
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Pagination (Displays 10 posts per page)
+paginate: 10
+paginate_path: "/page:num/"
